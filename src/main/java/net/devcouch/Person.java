@@ -1,12 +1,8 @@
 package net.devcouch;
 
-
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
-/**
- * Created by markusvieghofer on 13.12.15.
- */
 public class Person {
     public final String firstName;
     public final String lastName;

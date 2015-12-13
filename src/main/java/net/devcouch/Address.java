@@ -1,8 +1,5 @@
 package net.devcouch;
 
-/**
- * Created by markusvieghofer on 13.12.15.
- */
 public class Address {
     public final String street;
     public final String city;
